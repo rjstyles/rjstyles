@@ -1,5 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning React.js
+
+![Visitor Count](https://profile-counter.glitch.me/rjstyles/count.svg)
+
 <!--
 **rjstyles/rjstyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
